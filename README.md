@@ -1,4 +1,5 @@
 📊 Credit Card Financial Dashboards
+
 🚀 Project Overview
 This project presents 2 interactive, real-time financial dashboards built using SQL + Power BI to analyze credit card transactions and customer profiles. The dashboards are designed to provide actionable insights for financial decision-making by tracking key metrics, customer behavior, and revenue trends.
 
