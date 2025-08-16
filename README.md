@@ -55,6 +55,6 @@ KPIs Monitored:
 
 📈 Future Enhancements
 1. Integrate predictive analytics for churn & default risk
-2.Automate scheduled data refresh from SQL DB
-3.Extend dashboards with mobile-friendly reports
+2. Automate scheduled data refresh from SQL DB
+3. Extend dashboards with mobile-friendly reports
 
